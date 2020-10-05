@@ -3,7 +3,7 @@ Simple C++ console snake game. First C++ project following a tutorial by NVitano
 
 Followed the tutorial to create C++ snake game:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/peteDotNet/SnakeGame/blob/master/SnakeGame.PNG)
 
 
 
